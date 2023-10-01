@@ -1,4 +1,4 @@
-This project contains R code for implementation of the simulation study described in the paper: 
+This project contains R code for implementation of the simulation study described in the following paper: 
   
 Ruth Keogh, Jon Michael Gran, Shaun Seaman, Gwyneth Davies, Stijn Vansteelandt.
 
